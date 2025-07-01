@@ -1,6 +1,7 @@
 <h1 align="center">Hi there! 😼 ZenInrows | Code with claws</h1>
 <p align="center">
-  <em>Sassy. Sharp. Strategic. I pounce on problems like warrior in the battle field — with confidence and code.</em>
+  <em>Code like Stark. Move like T'Challa. Sass like Deadpool.  
+  I'm not your average dev — I'm the post-credit scene!!</em>
 </p>
 
 ---
